@@ -1,11 +1,11 @@
 # Site settings
-title: Connor Hammond
+title: Connor's Blog
 email: connor.hammond@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Deep Thoughts with The ConMan
-baseurl: "ConnorH2582.github.io" # the subpath of your site, e.g. /blog/
-url: http://ConnorH2582.github.io # the base hostname & protocol for your site
-twitter_username:
+baseurl: "connorh2582.github.io" # the subpath of your site, e.g. /blog/
+url: "http://connorh2582.github.io/" # the base hostname & protocol for your site
+twitter_username: @Connor_Hammond
 github_username:  ConnorH2582
 
 # Build settings
