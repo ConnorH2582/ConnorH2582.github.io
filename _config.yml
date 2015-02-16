@@ -1,7 +1,7 @@
 # Site settings
 title: Connor Hammond
 email: connor.hammond@gmail.com
-description: # this means to ignore newlines until "baseurl:"
+description: > # this means to ignore newlines until "baseurl:"
   Deep Thoughts with Connor Hammond
 baseurl: "connorh2582.github.io/" # the subpath of your site, e.g. /blog/
 url: "http://connorh2582.github.io/" # the base hostname & protocol for your site
